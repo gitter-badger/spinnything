@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ItemType>PackagingProject</ItemType>
+    <ProjectGuid>{CA86B1C6-7303-43D8-8D9E-F14789CD264B}</ProjectGuid>
+    <Packages>
+      <Packages xmlns="">
+        <Package name="SpinnyThing">
+          <Builder targetFile="spinnything.zip" platform="Windows" configuration="Release|x86" ctype="BinariesZipPackageBuilder">
+            <ChildEntries>
+              <SolutionItemReference path="spinnything\spinnything.csproj" />
+            </ChildEntries>
+            <RootEntry path="spinnything.sln" id=":root:" />
+          </Builder>
+        </Package>
+      </Packages>
+    </Packages>
+  </PropertyGroup>
+</Project>

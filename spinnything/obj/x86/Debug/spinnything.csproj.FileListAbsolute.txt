@@ -1,0 +1,4 @@
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\bin\Debug\spinnything.exe
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\bin\Debug\spinnything.pdb
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\obj\x86\Debug\spinnything.exe
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\obj\x86\Debug\spinnything.pdb

@@ -1,0 +1,4 @@
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\bin\Release\spinnything.exe
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\bin\Release\spinnything.pdb
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\obj\x86\Release\spinnything.exe
+C:\Users\Ja'sun\Documents\Projects\spinnything\spinnything\obj\x86\Release\spinnything.pdb
